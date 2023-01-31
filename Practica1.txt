@@ -1,3 +1,4 @@
 Esta es la primer practica de Git de Andy en Enero 2023
 Y no se que pedo jajaja 
 Ahora con HTML
+Cambiaste SINTEC por ElectronicCats
